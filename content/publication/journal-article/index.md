@@ -1,49 +1,35 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Continued suppression of wildfires may allow more biomass to accumulate to foster even more intense fires. Enlightened fire management involves explicitly determining concurrent levels of suppression, wildland fire use (allowing some fires to burn) and fuel treatments to manage landscapes for ecological resilience. This study used the mechanistic landscape model FireBGCv2 to simulate ecological dynamics on three landscapes in the US northern Rocky Mountains to determine responses of seven management-oriented variables over a gradient of 10 fire suppression levels under two climate and four fuel treatment scenarios. We used a historical range and variation (HRV) time series of the seven variables individually and merged together as a Principal Components factor (PC1) to define the envelope that represents ecological resiliency and compared all simulations with the HRV base case. We found that under today’s climates, using the PC1 factor, ecological resilience was maintained while suppressing 30–90% of wildfires depending on the landscape. We also found fuel treatments might allow higher suppression levels to occur and still maintain resilience. Other findings indicate that each landscape must be individually evaluated to determine the right mix of wildfires, wildland fire use and fuel treatments depending on the response variables used to evaluate resilience.
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Robert Keane
+- Kathy Gray
+- Brett Davis
+- Lisa Holsinger
+- Rachel Loehman
+date: "2019-06-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*International Journal of Wildland Fire* 28(7)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2019-06-04T00:00:00Z"
+
+summary: Continued suppression of wildfires may allow more biomass to accumulate to foster even more intense fires. Enlightened fire management involves explicitly determining concurrent levels of suppression, wildland fire use (allowing some fires to burn) and fuel treatments to manage landscapes for ecological resilience.
 tags:
 - Source Themes
-title: An example journal article
+title: Evaluating ecological resilience across wildfire suppression levels under climate and fuel treatment scenarios using landscape simulation modelling
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.publish.csiro.au/wf/pdf/WF19015
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
