@@ -1,54 +1,32 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In 1993 and 1995, we detailed body mass growth rates, plumage development, and related behaviors of Snowy Owl (Bubo scandiacus) nestlings from Barrow, Alaska. We recorded data from 71 of 80 nestlings from 14 of 20 nests in 1993 and 154 of 161 nestlings from 33 of 54 nests in 1995. Only nestlings for which we had data from hatching to at least 25 d of age were included in the growth model. Nestlings hatched between 1–3 d after “pipping” (creating a hole in) the eggshell. The semi-altricial young were covered in white protoptile (first) down plumage at hatching and weighed about 44–45 g. For about the first 7 d, their eyes were closed and movement was limited; the nestlings were dependent on the female for thermoregulation, food, and protection. Growth was rapid and by 8–9 d, the dark gray mesoptile (second) down had begun replacing protoptile down. By about 9–11 d, eyes were open, and by about 14 d, the owls were dark gray in color, and primary flight feather quills emerged. Mass gains were greatest the week prior to pre-fledging nest departure. The owls gained about 56 g every d, between 16–22 d. Around 21 d, the primary flight feathers erupted from their quills, and at approximately 25 d, tail (rectrices) feather quills erupted. After pre-fledging nest departure at approximately 21 d, the young owls roamed the tundra on foot and were fed and protected by both parents. We did not observe voluntary brood reduction; however, some young died in nests. Mass growth slowed substantially by about 34 d, while plumage development, particularly flight feather growth, increased rapidly. Young within and between nests, and years, grew at similar rates. Around 36–43 d, the young began their first attempts at flying, by hopping and pumping their wings. Also at this age, differences in plumage between presumed males and females were noticeable. Between 44 and 55 d, the young fledged, coinciding with the time when primary flight feather P8 reached 16.5 cm, and tail feather T1 reached 11.0 cm.
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Denver Holt
+- Kathy Gray
+date: "2019-06-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+projects: []
+publication: '*The Journal of Raptor Research* 50(2)'
+publication_short: ""
 publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "2"
+publishDate: "2016-06-04T00:00:00Z"
+
+summary: We detailed body mass growth rates, plumage development, and related behaviors of Snowy Owl (Bubo scandiacus) nestlings from Barrow, Alaska.
 tags:
 - Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+title: Mass growth rates, plumage development, and related behaviors of Snowy Owl nestlings
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ""
+url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
